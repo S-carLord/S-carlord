@@ -44,7 +44,7 @@
 
 ![Contribuições 3D](https://raw.githubusercontent.com/S-carlord/S-carlord/main/profile-3d-contrib/profile-night-view.svg)  
 
-![Snake Animation](https://github.com/S-carlord/S-carlord/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
 </div>  
 
