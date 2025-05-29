@@ -1,33 +1,69 @@
-#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: 
-   *Sou estudante de Engenharia de Software pela Wyden*
-<div align="left">
-  <a href="https://www.instagram.com/neroengine_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/hyoran-c-760604364/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:itshyoranofc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
-    <span style="font-size: 8px; margin-right: 5px;"> :mag_right: </span>
-    <img src="https://profile-counter.glitch.me/S-carlord/count.svg" style="width: 140px;">
-  </span>
-</div>
+# **Hyoran (S-carlord)** 👨‍💻  
+**Engenheiro de Software em Formação | Wyden**  
 
-###  🔸```Tecnologias```:notebook_with_decorative_cover:
-| 🔸 **HTML** <img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | :small_orange_diamond: **CSS** <img align="center" alt="CSS" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | 🔸 **JavaScript** <img align="center" alt="JS" height="30" width="30" src="https://img.icons8.com/?size=48&id=108784&format=png"> |🔸 **TypeScript** <img align="center" alt="Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  |  🔸 **Csharp** <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  |  🔸 **Java** <img align="center" alt="Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">  |
-|:----- |:----- |:----- |:----- |:----- | :------ |
-
-### 🔸```Estatísticas```:bar_chart:
-
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
-
-<div style="display: flex; justify-content: space-between; width: 100%; align-items:center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
+<div align="center">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyoran-c-760604364/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshyoranofc@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neroengine_/)
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=S-carlord&color=blueviolet&style=flat)  
+
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)
+---
+
+## **🛠️ Tecnologias & Habilidades**  
+
+<div align="center">  
+
+### **Linguagens**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+
+### **Front-End**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### **Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+</div>  
+
+---
+
+## **📊 Estatísticas do GitHub**  
+
+<div align="center">  
+
+| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&theme=tokyonight&hide=html,css&langs_count=6) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=tokyonight&count_private=true) |
+|:---:|:---:|
+
+![Contribuições 3D](https://raw.githubusercontent.com/S-carlord/S-carlord/main/profile-3d-contrib/profile-night-view.svg)  
+
+![Snake Animation](https://github.com/S-carlord/S-carlord/blob/output/github-contribution-grid-snake.svg)  
+
+</div>  
+
+---
+
+## **📌 Sobre Mim**  
+
+- 🎓 **Estudante de Engenharia de Software** na Wyden.  
+- 🌱 **Aprendendo** TypeScript, Java e arquitetura de software.  
+- 💡 **Interesses**: Backend, automação e desenvolvimento de jogos.  
+- 🚀 **Objetivo**: Tornar-me um **Engenheiro de Software Full-Stack**.  
+
+---
+
+### **🔗 Conecte-se Comigo**  
+📩 **Email**: [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com)  
+💼 **LinkedIn**: [Hyoran C.](https://www.linkedin.com/in/hyoran-c-760604364/)  
+📷 **Instagram**: [@neroengine_](https://www.instagram.com/neroengine_/)  
+
+---
+
+⭐ **From** [**S-carlord**](https://github.com/S-carlord)  
