@@ -1,7 +1,10 @@
 # Hi there 👋
 
-![Snake animation dark](https://github.com/S-carLord/S-carlord/blob/main/dist/github-contribution-grid-snake-dark.svg)
-![3D Contributions](https://github.com/S-carLord/S-carLord/blob/main/profile-3d.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/S-carLord/S-carLord/blob/main/profile-3d.svg#gh-dark-mode-only" width="400" />
+  <img src="https://github.com/S-carLord/S-carlord/blob/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="400" /> 
+</p>
+
 **S-carLord/S-carlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
