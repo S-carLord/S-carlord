@@ -12,7 +12,7 @@
   </a>
   <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
     <span style="font-size: 8px; margin-right: 5px;"> :mag_right: </span>
-    <img src="https://profile-counter.glitch.me/KenpsSouza/count.svg" style="width: 140px;">
+    <img src="https://profile-counter.glitch.me/S-carlord/count.svg" style="width: 140px;">
   </span>
 </div>
 
