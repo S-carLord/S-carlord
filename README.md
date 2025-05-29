@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+![Snake animation dark](https://github.com/S-carLord/S-carlord/blob/main/dist/github-contribution-grid-snake-dark.svg)
 
 **S-carLord/S-carlord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
