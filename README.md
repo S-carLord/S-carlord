@@ -34,4 +34,4 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KenpsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KenpsSouza/KenpsSouza/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)
