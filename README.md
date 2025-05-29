@@ -4,10 +4,10 @@
   <a href="https://www.instagram.com/neroengine_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="[https://www.linkedin.com/in/kenps-dev-adv/](https://www.linkedin.com/in/hyoran-c-760604364/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hyoran-c-760604364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:kenpsrossi@gmail.com" target="_blank">
+  <a href="mailto:itshyoranofc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <span style="display: flex; align-items: right; margin-left: 120px;"> <!-- Aumentado para 120px -->
@@ -25,9 +25,9 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
 
 <div style="display: flex; justify-content: space-between; width: 100%; align-items:center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenpsSouza&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KenpsSouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)
