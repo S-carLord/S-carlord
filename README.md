@@ -1,10 +1,10 @@
-#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: <img src="https://github.com/user-attachments/assets/2124bc7c-8c64-478d-b58f-40e10b7f85e4" height="250px" align="right" alt="Gif animado">
+#  🧑🏻‍💻 ```      Hello World!      ``` :earth_americas: 
    *Sou estudante de Engenharia de Software pela Wyden*
 <div align="left">
-  <a href="https://www.instagram.com/kenps.souza/" target="_blank">
+  <a href="https://www.instagram.com/neroengine_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
-  <a href="https://www.linkedin.com/in/kenps-dev-adv/" target="_blank">
+  <a href="[https://www.linkedin.com/in/kenps-dev-adv/](https://www.linkedin.com/in/hyoran-c-760604364/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:kenpsrossi@gmail.com" target="_blank">
