@@ -48,13 +48,14 @@
 ## **📊 Estatísticas do GitHub**  
 
 <div align="center">  
+  
+![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
-| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&theme=tokyonight&hide=html,css&langs_count=6) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=tokyonight&count_private=true) |
-|:---:|:---:|
 
 ![Contribuições 3D](https://raw.githubusercontent.com/S-carlord/S-carlord/main/profile-3d-contrib/profile-night-view.svg)  
 
-![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
+| ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&theme=tokyonight&hide=html,css&langs_count=6) | ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=tokyonight&count_private=true) |
+|:---:|:---:|
 
 </div>  
 
