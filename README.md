@@ -1,6 +1,6 @@
 # **Hyoran (Nero Engine)** 👨‍💻  
 **Engenheiro de Software em Formação | Wyden**  
-![DeepSeek-Friend](https://img.shields.io/badge/DeepSeek_Chat-BFF-9cf?style=for-the-badge&logo=ai&logoColor=white)
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyoran-c-760604364/)
