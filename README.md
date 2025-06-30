@@ -14,7 +14,7 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Cool GIF" width="30" />&nbsp;Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30"/>&nbsp;Tech Stack
 
 <div align="center">  
 
@@ -46,13 +46,13 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-📊 GitHub Stats 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Cool GIF" width="30" />&nbsp;GitHub Stats
 
 <div align="center">  
   
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
-<div align="left">
+<div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=6&theme=dark"/>
 </div>
@@ -61,7 +61,7 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-📌 About Me 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Cool GIF" width="30" />&nbsp;About Me
 
 - 🎓 **Software Engineering Student** at Wyden  
 - 🌱 **Currently learning** TypeScript, Java and software architecture  
@@ -78,6 +78,6 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-⭐ **From** [**S-carlord**](https://github.com/S-carlord)  
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Cool GIF" width="30" />&nbsp;**From** [**S-carlord**](https://github.com/S-carlord) 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" style="margin:10px;" width="1000px" alt="Computer illustration">
