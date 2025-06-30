@@ -4,9 +4,9 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyoran-c-760604364/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itshyoranofc@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neroengine_/)
+[![GIthub](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/filled/github.svg)](https://github.com/S-carlord) &nbsp;
+[![Instagram](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/instagram.svg)](https://www.instagram.com/neroengine_/) &nbsp;
+[![Linkedin](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/linkedin.svg)](https://www.linkedin.com/in/hyoran-c-760604364/) &nbsp;
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=S-carlord&color=blueviolet&style=flat)  
 
