@@ -1,4 +1,5 @@
-# **Hyoran (Nero Engine)** 👨‍💻  
+Hyoran (Nero Engine) 👨‍💻
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 **Engenheiro de Software em Formação | Wyden**  
 
 <div align="center">
@@ -11,9 +12,9 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## **🛠️ Tecnologias & Habilidades**  
+🛠️ Tecnologias & Habilidades 
 
 <div align="center">  
 
@@ -43,9 +44,9 @@
 
 </div>  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## **📊 Estatísticas do GitHub**  
+📊 Estatísticas do GitHub 
 
 <div align="center">  
   
@@ -59,22 +60,23 @@
 
 </div>  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## **📌 Sobre Mim**  
+📌 Sobre Mim 
 
 - 🎓 **Estudante de Engenharia de Software** na Wyden.  
 - 🌱 **Aprendendo** TypeScript, Java e arquitetura de software.  
 - 💡 **Interesses**: Backend, automação e desenvolvimento de jogos.  
 - 🚀 **Objetivo**: Tornar-me um **Engenheiro de Software Full-Stack**.  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### **🔗 Conecte-se Comigo**  
+🔗 Conecte-se Comigo
+
 📩 **Email**: [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com)  
 💼 **LinkedIn**: [Hyoran C.](https://www.linkedin.com/in/hyoran-c-760604364/)  
 📷 **Instagram**: [@neroengine_](https://www.instagram.com/neroengine_/)  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ⭐ **From** [**S-carlord**](https://github.com/S-carlord)  
