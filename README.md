@@ -72,9 +72,9 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 🔗 Connect With Me
 
-📩 **Email**: [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com)  
-💼 **LinkedIn**: [Hyoran C.](https://www.linkedin.com/in/hyoran-c-760604364/)  
-📷 **Instagram**: [@neroengine_](https://www.instagram.com/neroengine_/)  
+- 📩 **Email**: [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com)  
+- 💼 **LinkedIn**: [Hyoran C.](https://www.linkedin.com/in/hyoran-c-760604364/)  
+- 📷 **Instagram**: [@neroengine_](https://www.instagram.com/neroengine_/)  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
