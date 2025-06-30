@@ -1,4 +1,4 @@
-Hyoran (Nero Engine) 👨‍💻
+Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" style="margin-left:10px;" width="30" height="30" align="left">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 **Engenheiro de Software em Formação | Wyden**  
 
