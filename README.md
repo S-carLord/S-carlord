@@ -54,7 +54,7 @@ Hyoran (Nero Engine) 👨‍💻 <img src="https://user-images.githubusercontent
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=6&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 </div>  
