@@ -66,10 +66,8 @@
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
  <div align="center">
-  <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=4ADEDD&icon_color=4ADEDD&bg_color=0d1117" alt="Hyoran's GitHub stats"/>
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=4ADEDD&bg_color=0d1117" alt="Top Languages"/>
+  <!-- GitHub Metrics (Static) -->
+  <img width="100%" src="github-metrics.svg" alt="Hyoran's Metrics"/>
  </div>
 </div>  
 
