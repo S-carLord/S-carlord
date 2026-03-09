@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hyoran Jimenez</h1>
+  <h1>Hyoran Jimenez Castilho</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4ADEDD&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;Nero+Engine+Creator" alt="Typing SVG" />
   </a>
