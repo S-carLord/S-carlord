@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -27,5 +27,5 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
         with:
-          message: 'Atualizar animação Snake'
+          message: 'chore: update contribution snake animation'
           add: 'dist'
