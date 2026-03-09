@@ -20,7 +20,8 @@ jobs:
           # Options
           user: S-carlord
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity
+          base_skipped: pull_requests, issues, reviews, contributors
           config_timezone: America/Sao_Paulo
           
           # Appearance
