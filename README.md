@@ -5,7 +5,6 @@
   </a>
 </div>
 
-
 <div align="center">
   
 [![GitHub](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/filled/github.svg)](https://github.com/S-carlord) &nbsp;
@@ -68,7 +67,7 @@
 
  <div align="center">
   <!-- GitHub Metrics (Static) -->
-  <img width="100%" src="github-metrics.svg" alt="Hyoran's Metrics"/>
+  <img width="80%" src="github-metrics.svg" alt="Hyoran's Metrics"/>
  </div>
 </div>  
 
