@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4ADEDD&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;Nero+Engine+Creator" alt="Typing SVG" />
   </a>
 </div>
+<div align="center">
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+</div>
 
 <div align="center">
   
