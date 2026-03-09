@@ -22,38 +22,38 @@
 <div align="center">  
 
 ### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000&color=4ADEDD)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=000&color=4ADEDD)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000&color=4ADEDD)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=000&color=4ADEDD)
+![JavaScript](https://img.shields.io/badge/JavaScript-4ADEDD?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-4ADEDD?style=for-the-badge&logo=typescript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-4ADEDD?style=for-the-badge&logo=python&logoColor=000)
+![Dart](https://img.shields.io/badge/Dart-4ADEDD?style=for-the-badge&logo=dart&logoColor=000)
 
 ### **Frontend Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000&color=4ADEDD)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=000&color=4ADEDD)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&color=4ADEDD)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=000&color=4ADEDD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=000&color=4ADEDD)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=000&color=4ADEDD)
+![HTML5](https://img.shields.io/badge/HTML5-4ADEDD?style=for-the-badge&logo=html5&logoColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-4ADEDD?style=for-the-badge&logo=css3&logoColor=000)
+![React](https://img.shields.io/badge/React-4ADEDD?style=for-the-badge&logo=react&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4ADEDD?style=for-the-badge&logo=tailwind-css&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-4ADEDD?style=for-the-badge&logo=bootstrap&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-4ADEDD?style=for-the-badge&logo=vite&logoColor=000)
 
 ### **Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=000&color=4ADEDD)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=000&color=4ADEDD)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=000&color=4ADEDD)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=000&color=4ADEDD)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=000&color=4ADEDD)
+![Node.js](https://img.shields.io/badge/Node.js-4ADEDD?style=for-the-badge&logo=node.js&logoColor=000)
+![Express](https://img.shields.io/badge/Express-4ADEDD?style=for-the-badge&logo=express&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4ADEDD?style=for-the-badge&logo=postgresql&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-4ADEDD?style=for-the-badge&logo=postgresql&logoColor=000)
+![REST API](https://img.shields.io/badge/REST_API-4ADEDD?style=for-the-badge&logo=postman&logoColor=000)
 
 ### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=000&color=4ADEDD)
+![Flutter](https://img.shields.io/badge/Flutter-4ADEDD?style=for-the-badge&logo=flutter&logoColor=000)
 
 ### **Development Tools**
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=000&color=4ADEDD)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=000&color=4ADEDD)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=000&color=4ADEDD)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=000&color=4ADEDD)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=000&color=4ADEDD)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=000&color=4ADEDD)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=000&color=4ADEDD)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000&color=4ADEDD)
+![VS Code](https://img.shields.io/badge/VS_Code-4ADEDD?style=for-the-badge&logo=visual-studio-code&logoColor=000)
+![Android Studio](https://img.shields.io/badge/Android_Studio-4ADEDD?style=for-the-badge&logo=android-studio&logoColor=000)
+![Xcode](https://img.shields.io/badge/Xcode-4ADEDD?style=for-the-badge&logo=xcode&logoColor=000)
+![Git](https://img.shields.io/badge/Git-4ADEDD?style=for-the-badge&logo=git&logoColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-4ADEDD?style=for-the-badge&logo=github&logoColor=000)
+![Postman](https://img.shields.io/badge/Postman-4ADEDD?style=for-the-badge&logo=postman&logoColor=000)
+![NPM](https://img.shields.io/badge/NPM-4ADEDD?style=for-the-badge&logo=npm&logoColor=000)
+![Netlify](https://img.shields.io/badge/Netlify-4ADEDD?style=for-the-badge&logo=netlify&logoColor=000)
 
 </div>  
 
@@ -65,13 +65,12 @@
   
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
- <!-- div align="center">-->  
+ <div align="center">
   <!-- Stats Card -->
-   <!-- img height="165em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=4ADEDD&icon_color=4ADEDD&bg_color=0d1117" alt="Hyoran's GitHub stats"/>-->  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-carlord&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true&title_color=4ADEDD&icon_color=4ADEDD&bg_color=0d1117" alt="Hyoran's GitHub stats"/>
   <!-- Top Languages -->
-   <!-- img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=4ADEDD&bg_color=0d1117" alt="Top Languages"/>
--->
- <!-- /div>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-carlord&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=4ADEDD&bg_color=0d1117" alt="Top Languages"/>
+ </div>
 </div>  
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -87,13 +86,20 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="30" />&nbsp;Connect With Me
 
-- 📩 **Email**: [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com)  
-- 💼 **LinkedIn**: [Hyoran C.](https://www.linkedin.com/in/hyoran-c-760604364/)  
-- 📷 **Instagram**: [@neroengine_](https://www.instagram.com/neroengine_/)  
-- 💻 **GitHub**: [S-carlord](https://github.com/S-carlord)
+<div align="center">
+
+| Section | Link |
+| :--- | :--- |
+| 📩 **Email** | [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com) |
+| 💼 **LinkedIn** | [Hyoran Jimenez](https://www.linkedin.com/in/hyoran-c-760604364/) |
+| 📷 **Instagram** | [@neroengine_](https://www.instagram.com/neroengine_/) |
+| 💻 **GitHub** | [S-carlord](https://github.com/S-carlord) |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" />&nbsp;**From** [**S-carlord**](https://github.com/S-carlord) 
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" style="margin:10px;" width="1000px" alt="Computer illustration">
+<div align="center">
+  <h3>Thanks for visiting! 🚀</h3>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Computer illustration">
+</div>
