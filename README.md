@@ -1,25 +1,17 @@
-<div align="center">
-  <h1>Hyoran Jimenez Castilho</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4ADEDD&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Backend+Developer;Nero+Engine+Creator" alt="Typing SVG" />
-  </a>
-</div>
+<h1>Hyoran Jimenez Castilho</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4ADEDD&center=false&vCenter=false&width=435&lines=Software+Engineering+Student;Backend+Developer;Nero+Engine+Creator" alt="Typing SVG" />
+</a>
 
-<div align="center">
-  
 [![GitHub](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/filled/github.svg)](https://github.com/S-carlord) &nbsp;
 [![Instagram](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/instagram.svg)](https://www.instagram.com/neroengine_/) &nbsp;
 [![LinkedIn](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/linkedin.svg)](https://www.linkedin.com/in/hyoran-c-760604364/) &nbsp;
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=S-carlord&color=000000&style=flat&labelColor=4ADEDD)
 
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30"/>&nbsp;Tech Stack
-
-<div align="center">  
 
 ### **Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-4ADEDD?style=for-the-badge&logo=javascript&logoColor=000)
@@ -55,15 +47,14 @@
 ![NPM](https://img.shields.io/badge/NPM-4ADEDD?style=for-the-badge&logo=npm&logoColor=000)
 ![Netlify](https://img.shields.io/badge/Netlify-4ADEDD?style=for-the-badge&logo=netlify&logoColor=000)
 
-</div>  
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" />&nbsp;GitHub Stats
 
-<div align="center">  
-  
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
+
+<!-- GitHub Metrics (Static) -->
+<img width="80%" src="github-metrics.svg" alt="Hyoran's Metrics"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -78,8 +69,6 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="30" />&nbsp;Connect With Me
 
-<div align="center">
-
 | Section | Link |
 | :--- | :--- |
 | 📩 **Email** | [itshyoranofc@gmail.com](mailto:itshyoranofc@gmail.com) |
@@ -87,11 +76,7 @@
 | 📷 **Instagram** | [@neroengine_](https://www.instagram.com/neroengine_/) |
 | 💻 **GitHub** | [S-carlord](https://github.com/S-carlord) |
 
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center">
-  <h3>Thanks for visiting! 🚀</h3>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Computer illustration">
-</div>
+### Thanks for visiting! 🚀
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Computer illustration">
