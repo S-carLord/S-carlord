@@ -65,12 +65,6 @@
   
 ![Snake animation](https://raw.githubusercontent.com/S-carlord/S-carlord/main/dist/github-contribution-grid-snake-dark.svg)  
 
- <div align="center">
-  <!-- GitHub Metrics (Static) -->
-  <img width="80%" src="github-metrics.svg" alt="Hyoran's Metrics"/>
- </div>
-</div>  
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="30" />&nbsp;About Me
