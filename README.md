@@ -10,6 +10,7 @@
 [![GitHub](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/filled/github.svg)](https://github.com/hyocastilho) &nbsp;
 [![Instagram](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/instagram.svg)](https://www.instagram.com/hyocastilho_/) &nbsp;
 [![LinkedIn](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/linkedin.svg)](https://www.linkedin.com/in/hyoran/) &nbsp;
+[![Website](https://raw.githubusercontent.com/luannsr12/luannsr12/main/assets/readme-social-icons/medium/colored/globe.svg)](https://hyoran.com.br) &nbsp;
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=S-carlord&color=000000&style=flat&labelColor=4ADEDD)
 
