@@ -37,15 +37,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div align="center">
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hyocastilho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hyocastilho&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyocastilho&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyocastilho&theme=algolia&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" alt="Computer illustration">
-  <h3>Code is poetry.</h3>
+  <h3>✨ Code is poetry. ✨</h3>
 </div>
